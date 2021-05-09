@@ -1,0 +1,59 @@
+{
+  "NAME": "Agare Efe Knowledge",
+  "EMAIL": "knowledgeagare157@gmail.com",
+  "EXTRAVERSION": {
+    "Overall Score": 34,
+    "Facets": {
+      "Friendliness": 28,
+      "Gregariousness": 21,
+      "Assertiveness": 34,
+      "Activity Level": 70,
+      "Excitement-Seeking": 1,
+      "Cheerfulness": 90
+    }
+  },
+  "AGREEABLENESS": {
+    "Overall Score": 77,
+    "Facets": {
+      "Trust": 92,
+      "Morality": 39,
+      "Altruism": 95,
+      "Cooperation": 35,
+      "Modesty": 82,
+      "Sympathy": 52
+    }
+  },
+  "CONSCIENTIOUSNESS": {
+    "Overall Score": 95,
+    "Facets": {
+      "Self-Efficacy": 97,
+      "Orderliness": 96,
+      "Dutifulness": 95,
+      "Achievement-Striving": 84,
+      "Self-Discipline": 57,
+      "Cautiousness": 72
+    }
+  },
+  "NEUROTICISM": {
+    "Overall Score": 7,
+    "Facets": {
+      "Anxiety": 0,
+      "Anger": 0,
+      "Depression": 4,
+      "Self-Consciousness": 67,
+      "Immoderation": 28,
+      "Vulnerability": 48
+    }
+  },
+  "OPENNESS TO EXPERIENCE": {
+    "Overall Score": 0,
+    "Facets": {
+      "Imagination": 1,
+      "Artistic Interests": 14,
+      "Emotionality": 32,
+      "Adventurousness": 48,
+      "Intellect": 18,
+      "Liberalism": 1
+    }
+  }
+}
